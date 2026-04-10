@@ -1,5 +1,11 @@
 # some redundancies just to be safe
 
+.DS_Store
+
+# JVM crash dumps (local only)
+hs_err_pid*.log
+replay_pid*.log
+
 # Pulled from netbeans template (fits more with ant)
 **/nbproject/private/
 **/nbproject/Makefile-*.mk

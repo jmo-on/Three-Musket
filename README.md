@@ -1,4 +1,17 @@
-# Three Musket - Game Design Document
+# Three Musket — Multiplayer FPS (jMonkeyEngine)
+
+**Portfolio copy — Kerry Wang** ([@iKerryWang](https://github.com/iKerryWang))  
+Team course project originally developed with collaborators; this repository is maintained for internship and recruiter review.
+
+## Highlights (my contributions)
+
+- Developed a **multiplayer-oriented FPS** prototype in **jMonkeyEngine**, taking design inspiration from **CS:GO** and **Team Fortress 2** (team deathmatch roles, projectile-focused combat, map and mode direction described in the design doc below).
+- Implemented **weapon systems** (shooting, reload, gun animation and feedback), **difficulty / mode hooks** (e.g. pause and mode selection flow), and **dynamic targets** (movement, health, regen, return fire, and win conditions).
+- Integrated **visual and environmental systems**: fog and skybox, terrain, lighting and shadows, particles, water, and animated weapon / scene elements.
+
+For the original split of tasks across teammates, see [Member Contributions](#member-contributions) below.
+
+---
 
 ## Game Summary
    
